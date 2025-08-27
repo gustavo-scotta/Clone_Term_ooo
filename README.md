@@ -28,6 +28,11 @@ Quando você acerta a palavra, ela será exibida totalmente em verde como comemo
 
 ---
 
+## Licença
+Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+---
+
 ## Executando o Jogo:
 
 No terminal, execute:
